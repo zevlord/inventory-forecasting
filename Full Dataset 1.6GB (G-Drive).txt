@@ -1,0 +1,9 @@
+=============================================
+		DATASET INFO
+=============================================
+Dataset Attached on Zip		= HALF DATA (Capacity Problem)
+Dataset Attached on GDrive	= FULL DATA (1.6GB) 12.000.000+ Rows | Full Analysis
+
+
+Link Dataset GDrive 	: https://drive.google.com/file/d/1KgxLllN4kJt8fLFOXQBbsdi0vMYGAJUa/view?usp=sharing
+Link Dataset Direct PWC	: https://www.pwc.com/us/en/careers/university_relations/data_analytics_cases_studies/SalesFINAL12312016csv.zip
